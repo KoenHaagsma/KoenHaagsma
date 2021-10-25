@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoenHaagsma
 - 👀 I’m interested in Programming, gaming and spending time with friends & family
-- 🌱 I’m currently learning Marketing, Front-end dev, Back-end dev. Designing
+- 🌱 I’m currently learning Front-end dev, Back-end dev. Design
 - 📫 How to reach me: Email me, or find me on LinkedIn
 
 <!---
