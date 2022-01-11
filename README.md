@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoenHaagsma
 - 👀 I’m interested in Programming, gaming and spending time with friends & family
-- 🌱 I’m currently learning Front-end development as I see this as my passion.
+- 🌱 I’m currently learning Front-end development as I see it as my passion.
 - 📫 How to reach me: [Email me](), or find me on [LinkedIn]()
 
 Currently working on my own projects:
