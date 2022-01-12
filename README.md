@@ -6,7 +6,7 @@
 
 # Currently working on my own projects:
 - 🚲 [LaadPaalNL](https://github.com/LaadPaal)
-- 🎍 [Mini-Greenhouse]()
+- 🎍 [Mini-Greenhouse](https://github.com/KoenHaagsma/Mini-Greenhouse)
 
 # Finished projects:
 - 👗 [Modevakstudio-Thirza](https://www.modevakstudio-thirza.nl/)
