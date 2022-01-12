@@ -5,6 +5,12 @@
 
 Currently working on my own projects:
 - 🚲 [LaadPaalNL](https://github.com/LaadPaal)
+- 🎍 [Mini-Greenhouse]()
+
+Finished projects:
+- 👗 [Modevakstudio-Thirza](https://www.modevakstudio-thirza.nl/)
+- ✈ [TravelMol](https://travelmol.nl/)
+
 
 <!---
 KoenHaagsma/KoenHaagsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
