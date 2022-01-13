@@ -12,6 +12,23 @@
 # Finished projects:
 - 👗 [Modevakstudio-Thirza](https://www.modevakstudio-thirza.nl/)
 
+# Things i still want to build:
+- Portfolio website
+- Crypto Dashboard
+- Stock market strategy dashboard
+
+# Things i still want to learn:
+- React.js
+- Next.js
+- Vue.js
+- Typescript
+- More advanced JS
+- Python basics
+- Git pipeline
+- Plugin building Wordpress
+- Advanced Woocommerce
+- More advanced ACF
+
 
 <!---
 KoenHaagsma/KoenHaagsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
