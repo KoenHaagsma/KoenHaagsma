@@ -17,8 +17,27 @@
 - Crypto Dashboard
 - Stock market strategy dashboard
 
+# My Skills:
+- Javascript
+- Beginnings of React.js
+- Node.js
+- Express.js
+- JSON
+- GIT
+- HTML
+- CSS
+- SCSS
+- PHP
+- Wordpress
+- Advanced Custom Fields
+- Woocommerce
+- A/B testing
+- Google optimize
+- Google tag manager
+- Google analytics
+
 # Things i still want to learn:
-- React.js
+- More React.js
 - Next.js
 - Vue.js
 - Typescript
