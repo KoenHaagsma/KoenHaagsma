@@ -7,10 +7,10 @@
 # Currently working on my own projects:
 - 🚲 [LaadPaalNL](https://github.com/LaadPaal)
 - 🎍 [Mini-Greenhouse](https://github.com/KoenHaagsma/Mini-Greenhouse)
+- ✈ [TravelMol](https://travelmol.nl/)
 
 # Finished projects:
 - 👗 [Modevakstudio-Thirza](https://www.modevakstudio-thirza.nl/)
-- ✈ [TravelMol](https://travelmol.nl/)
 
 
 <!---
