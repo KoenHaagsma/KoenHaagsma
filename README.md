@@ -5,8 +5,8 @@
 - 📫 How to reach me: [Email me](), or find me on [LinkedIn]()
 
 # Stats
-Time coding since i started measuring time:
-[![wakatime](https://wakatime.com/badge/user/a31e1e92-0778-4114-8da6-c3c2da01c1d0.svg)](https://wakatime.com/@a31e1e92-0778-4114-8da6-c3c2da01c1d0)
+[![wakatime](https://wakatime.com/badge/user/a31e1e92-0778-4114-8da6-c3c2da01c1d0.svg)](https://wakatime.com/@a31e1e92-0778-4114-8da6-c3c2da01c1d0) <br>
+Time coding since i started measuring time (1/11/2021)
 
 # Currently working on my own projects:
 - 🧪 [React-tutorial.app](https://react-tutorial.app/app.html)
