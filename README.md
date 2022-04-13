@@ -10,6 +10,7 @@
 Time coded since i started measuring time (1/11/2021)</i>
 
 # Things i still want to build:
+- Partner film finder
 - Portfolio website
 - Crypto Dashboard
 - Stock market strategy dashboard
