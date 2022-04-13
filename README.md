@@ -9,15 +9,6 @@
 <i>Updated: (13-2-2022)<br><br>
 Time coded since i started measuring time (1/11/2021)</i>
 
-# Currently working on my own projects:
-- 🧪 [React-tutorial.app](https://react-tutorial.app/app.html)
-- 🚲 [LaadPaalNL](https://github.com/LaadPaal)
-- 🎍 [Mini-Greenhouse](https://github.com/KoenHaagsma/Mini-Greenhouse)
-- ✈ [TravelMol](https://travelmol.nl/)
-
-# Finished projects:
-- 👗 [Modevakstudio-Thirza](https://www.modevakstudio-thirza.nl/)
-
 # Things i still want to build:
 - Portfolio website
 - Crypto Dashboard
