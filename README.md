@@ -5,8 +5,8 @@
 - 📫 How to reach me: [Email me](), or find me on [LinkedIn]()
 
 # Stats
-[![wakatime](https://wakatime.com/badge/user/a31e1e92-0778-4114-8da6-c3c2da01c1d0.svg)](https://wakatime.com/@a31e1e92-0778-4114-8da6-c3c2da01c1d0) <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KoenHaagsma)<br>
+[![wakatime](https://wakatime.com/badge/user/a31e1e92-0778-4114-8da6-c3c2da01c1d0.svg)](https://wakatime.com/@a31e1e92-0778-4114-8da6-c3c2da01c1d0) <br><br>
+![Koen's github stats](https://github-readme-stats.vercel.app/api?username=KoenHaagsma)<br><br>
 
 # Things i still want to build:
 - Partner film finder
