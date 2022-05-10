@@ -15,7 +15,7 @@
 - Portfolio website
 - Crypto Dashboard
 - Stock market strategy dashboard
-- Old school runescape split calculator [Project repo](https://github.com/KoenHaagsma/OSRS-LLS)
+- Old school runescape split calculator ([Project repo](https://github.com/KoenHaagsma/OSRS-LLS))
 
 # My Skills:
 - Javascript
