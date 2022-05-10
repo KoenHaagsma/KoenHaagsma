@@ -15,7 +15,7 @@
 - Portfolio website
 - Crypto Dashboard
 - Stock market strategy dashboard
-- Old school runescape split calculator WIP
+- Old school runescape split calculator [Project repo](https://github.com/KoenHaagsma/OSRS-LLS)
 
 # My Skills:
 - Javascript
@@ -47,7 +47,6 @@
 - Plugin building Wordpress
 - Advanced Woocommerce
 - More advanced ACF
-
 
 <!---
 KoenHaagsma/KoenHaagsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
