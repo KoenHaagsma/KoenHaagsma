@@ -14,7 +14,7 @@ Time coded since i started measuring time (1/11/2021)</i>
 - Portfolio website
 - Crypto Dashboard
 - Stock market strategy dashboard
-- Old school runescape split calculator
+- Old school runescape split calculator WIP
 
 # My Skills:
 - Javascript
